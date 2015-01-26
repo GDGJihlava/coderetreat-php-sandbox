@@ -3,8 +3,8 @@ Sandbox pro snadné spouštění testů v PHP
 
 ## Co si nainstalovat
 - git - http://git-scm.com/downloads
-- PHP - http://php.net/downloads.php
-- PHPUnit - https://phpunit.de/manual/current/en/installation.html
+- PHP - http://php.net/downloads.php, nebo přes WAMP, XAMP, nebo cokoli jiného
+- PHPUnit - https://phpunit.de/manual/current/en/installation.html (nejjednodušší je asi instalace přes composer https://phpunit.de/manual/current/en/installation.html#installation.composer, https://getcomposer.org/doc/00-intro.md#installation-windows)
 
 ## Jak to zprovoznit
 naklonuj si git repozitář
